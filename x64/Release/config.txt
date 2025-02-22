@@ -1,0 +1,5 @@
+max_try=1000000
+target =160
+max_thread = 16
+giveup_on_no_increase=100000
+random_entry_deep=27
