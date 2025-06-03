@@ -1,0 +1,7 @@
+max_try_time=6000
+target =160
+max_thread = 16
+giveup_on_no_increase=100000
+random_entry_deep=25
+max_try_count=9999999999
+prealoc_memory=536870912
